@@ -22,6 +22,8 @@ F10 - Opens Settings Menu to configure FPS cap, Discord RPC, and D3D11OND12.
 F11 - Toggles full screen mode
 
 # Contact
-To report issues or enquire about somethin; Discord: abyssyt_btw , Discord: kaan_btw666
+To report issues or enquire about somethin; 
+Discord: abyssyt_btw 
+Discord: kaan_btw666
 #  Credits
 Developed in collaboration by KAAN, OOOPS and AbyssYT.
