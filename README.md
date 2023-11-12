@@ -6,5 +6,18 @@ ooops mod was created by ooops in 2021 and is available in venge client. However
 
 # 890525.json Note:
 The AWP gun that comes with the v1.2.21 update is not included in the 890525.json file prepared by Just joe. Therefore, AWP does not work in the game, does not harm assets outside of the AWP, and does not make any difference in the game. If you prefer not to use awp you can use the file. 
+
+# Client Shortcuts
+F1 - Leaves the game back to the main menu
+
+F2 - Opens a dialog where you can join your friends via an invite link
+
+F3 - Copies the Link of your current game
+
+F9 - Opens the developer tool
+
+F10 - Opens Settings Menu to configure FPS cap, Discord RPC, and D3D11OND12.
+
+F11 - Toggles full screen mode
 #  Credits
 Developed in collaboration by KAAN, OOOPS and AbyssYT.
