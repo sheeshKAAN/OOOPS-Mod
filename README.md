@@ -24,4 +24,4 @@ F11 - Toggles full screen mode
 # Contact
 To report issues or enquire about somethin; Discord: abyssyt_btw ,Discord: kaan_btw666
 #  Credits
-Developed in collaboration by KAAN, OOOPS and AbyssYT.
+Developed in collaboration by (KAAN)[https://youtube.com/@KAANvg?si=ygdbqbT-whYhZeKg], OOOPS and AbyssYT.
