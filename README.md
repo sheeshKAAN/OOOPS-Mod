@@ -6,9 +6,9 @@ ooops mod was created by ooops in 2021. However, since 2 years have passed, the 
 2- Please refrain from spreading the client's GitHub link, and instead distribute the Discord link. 
 
 # 890525.json Note:
-The AWP gun that comes with the v1.2.21 update is not included in the 890525.json file prepared by Just joe. Therefore, AWP does not work in the game, does not harm assets outside of the AWP, and does not make any difference in the game. If you prefer not to use awp you can use the file. 
+The AWP gun that comes with the v1.2.21 update is not included in the 890525.json file prepared by Just joe. Therefore, AWP does not work in the game, does not harm assets outside of the AWP, and does not make any difference in the game. _If you prefer not to use awp you can use the file._
 
-# [Client](https://social.venge.io/client) Shortcuts
+# [Client Shortcuts](https://social.venge.io/client)
 F1 - Leaves the game back to the main menu
 
 F2 - Opens a dialog where you can join your friends via an invite link
