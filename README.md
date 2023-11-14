@@ -18,6 +18,8 @@ F3 - Copies the Link of your current game
 
 F9 - Opens the developer tool
 
+F7 - Userscrpit Manager
+
 F10 - Opens Settings Menu to configure FPS cap, Discord RPC, and D3D11OND12.
 
 F11 - Toggles full screen mode
