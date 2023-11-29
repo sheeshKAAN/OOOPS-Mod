@@ -33,7 +33,8 @@ https://discord.com/invite/pc4SuVmTjQ
 [OOOPS](https://youtube.com/@OOOPSio?si=KjjgGN1gNQo6A8sd)
 
 **Developed in collaboration by:** 
-[KAAN](https://youtube.com/@KAANvg?si=ygdbqbT-whYhZeKg) [AbyssYT](https://youtube.com/@abyssytvenge6643?si=LlEMkb4DZ5TECYn3).
+[KAAN](https://youtube.com/@KAANvg?si=ygdbqbT-whYhZeKg) 
+[AbyssYT](https://youtube.com/@abyssytvenge6643?si=LlEMkb4DZ5TECYn3).
 
 **Those who have support:**
 Captain Cool
