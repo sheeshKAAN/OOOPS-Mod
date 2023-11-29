@@ -41,4 +41,4 @@ and [AbyssYT](https://youtube.com/@abyssytvenge6643?si=LlEMkb4DZ5TECYn3)
 ,[Jonnis](https://youtube.com/@Jonn1s?si=A5CcLlBC0hhFdw5i)
 and [Just Joe](https://youtube.com/@justjoe7517?si=mKpzBDzyZCjA3Bvc)
 
-**Special-Offer:** [Nexi Weeb]()
+**Special-Offer:** [Nexi Weeb](https://github.com/JustxJoe/NeXi-Weeb)
