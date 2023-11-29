@@ -36,7 +36,7 @@ https://discord.com/invite/pc4SuVmTjQ
 [KAAN](https://youtube.com/@KAANvg?si=ygdbqbT-whYhZeKg) 
 and [AbyssYT](https://youtube.com/@abyssytvenge6643?si=LlEMkb4DZ5TECYn3)
 
-**Those who have support:**
+**Contributors:**
 [Captain Cool]()
 ,[Jonnis](https://youtube.com/@Jonn1s?si=A5CcLlBC0hhFdw5i)
 and [Just Joe](https://youtube.com/@justjoe7517?si=mKpzBDzyZCjA3Bvc)
