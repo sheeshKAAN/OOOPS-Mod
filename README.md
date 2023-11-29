@@ -38,5 +38,5 @@ and [AbyssYT](https://youtube.com/@abyssytvenge6643?si=LlEMkb4DZ5TECYn3)
 
 **Those who have support:**
 Captain Cool
-Jonnis
-Just Joe
+,Jonnis
+and Just Joe
