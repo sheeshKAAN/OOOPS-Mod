@@ -34,7 +34,7 @@ https://discord.com/invite/pc4SuVmTjQ
 
 **Developed in collaboration by:** 
 [KAAN](https://youtube.com/@KAANvg?si=ygdbqbT-whYhZeKg) 
-and [AbyssYT](https://youtube.com/@abyssytvenge6643?si=LlEMkb4DZ5TECYn3).
+and [AbyssYT](https://youtube.com/@abyssytvenge6643?si=LlEMkb4DZ5TECYn3)
 
 **Those who have support:**
 Captain Cool
