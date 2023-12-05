@@ -30,7 +30,7 @@ To report issues or enquire about somethin;
 https://discord.com/invite/pc4SuVmTjQ
 #  Credits
 **Creative:**
-[ooops dicord server](https://youtube.com/@OOOPSio?si=KjjgGN1gNQo6A8sd)
+[OOOPS Mod dicord server](https://youtube.com/@OOOPSio?si=KjjgGN1gNQo6A8sd)
 
 **Developed in collaboration by:** 
 [KAAN](https://youtube.com/@KAANvg?si=ygdbqbT-whYhZeKg) 
