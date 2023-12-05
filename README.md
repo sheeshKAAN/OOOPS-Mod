@@ -26,11 +26,10 @@ F10 - Opens Settings Menu to configure FPS cap, Discord RPC, and D3D11OND12.
 F11 - Toggles full screen mode
 
 # Contact
-To report issues or enquire about somethin; 
-https://discord.com/invite/pc4SuVmTjQ
+To report issues or enquire about somethin; [OOOPS Mod dicord server](https://youtube.com/@OOOPSio?si=KjjgGN1gNQo6A8sd)
 #  Credits
 **Creative:**
-[OOOPS Mod dicord server](https://youtube.com/@OOOPSio?si=KjjgGN1gNQo6A8sd)
+[OOOPS](https://youtube.com/@OOOPSio?si=KjjgGN1gNQo6A8sd)
 
 **Developed in collaboration by:** 
 [KAAN](https://youtube.com/@KAANvg?si=ygdbqbT-whYhZeKg) 
