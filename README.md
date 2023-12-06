@@ -6,7 +6,7 @@ ooops mod was created by ooops in 2021. However, since 2 years have passed, the 
 2- Please refrain from spreading the client's GitHub link, and instead distribute the Discord link. 
 
 # Notes:
-- **890525.json:** The AWP gun that comes with the v1.2.21 update is not included in the 890525.json file prepared by Just joe. Therefore, AWP does not work in the game, **does not harm assets outside of the AWP**, and does not make any difference in the game. _If you prefer not to use awp you can use the file._
+- **890525.json:** The AWP gun that comes with the v1.2.21 update is not included in the 890525.json file prepared by Just joe. Therefore, AWP does not work in the game, **does not harm assets outside of the AWP**, and does not make any difference in the game. _If you prefer not to use awp you can use the file._ We are working to update it, but you can use it now.
 - **How to install?:** The three files that appear after extracting the archive (files ,890525 and 1056036) should go to the "Resource Swapper" section. You can make the mod work by refreshing the game once.
 - The game images are just an exhibition for you to see the in-game footage of the mod.You don't have to throw it to the Resource Swapper section, even if you do, it won't do any harm.
 
@@ -26,7 +26,17 @@ F10 - Opens Settings Menu to configure FPS cap, Discord RPC, and D3D11OND12.
 F11 - Toggles full screen mode
 
 # Contact
-To report issues or enquire about somethin; 
-https://discord.com/invite/pc4SuVmTjQ
+To report issues or enquire about somethin; [OOOPS Mod dicord server](https://youtube.com/@OOOPSio?si=KjjgGN1gNQo6A8sd)
 #  Credits
-Developed in collaboration by [KAAN](https://youtube.com/@KAANvg?si=ygdbqbT-whYhZeKg) ,[OOOPS](https://youtube.com/@OOOPSio?si=KjjgGN1gNQo6A8sd) and [AbyssYT](https://youtube.com/@abyssytvenge6643?si=LlEMkb4DZ5TECYn3).
+**Creative:**
+[OOOPS](https://youtube.com/@OOOPSio?si=KjjgGN1gNQo6A8sd)
+
+**Developed in collaboration by:** 
+[KAAN](https://youtube.com/@KAANvg?si=ygdbqbT-whYhZeKg) 
+and [AbyssYT](https://youtube.com/@abyssytvenge6643?si=LlEMkb4DZ5TECYn3)
+
+**Contributors:**
+[Captain Cool]() ,[Stishka](https://www.youtube.com/@stishka7184/featured)
+and [Just Joe](https://youtube.com/@justjoe7517?si=mKpzBDzyZCjA3Bvc)
+
+**Special-Offer:** [Nexi Weeb](https://github.com/JustxJoe/NeXi-Weeb)
