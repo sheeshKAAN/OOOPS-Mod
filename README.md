@@ -9,7 +9,9 @@ ooops mod was created by ooops in 2021. However, since 2 years have passed, the 
 - **How to install?:**
 
 1- download zip file
+
 2- extract the zip file
+
 3- Move the files to the required resource managers.
   
 - The game images are just an exhibition for you to see the in-game footage of the mod.You don't have to throw it to the Resource Swapper section, even if you do, it won't do any harm.
