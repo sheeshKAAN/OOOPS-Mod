@@ -7,6 +7,7 @@ ooops mod was created by ooops in 2021. However, since 2 years have passed, the 
 
 # Notes:
 - **How to install?:**
+
 1- download zip file
 2- extract the zip file
 3- Move the files to the required resource managers.
