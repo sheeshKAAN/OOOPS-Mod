@@ -8,9 +8,9 @@ ooops mod was created by ooops in 2021. However, since 2 years have passed, the 
 # Notes:
 - **890525.json:** The AWP gun that comes with the v1.2.21 update is not included in the 890525.json file prepared by Just joe. Therefore, AWP does not work in the game, **does not harm assets outside of the AWP**, and does not make any difference in the game. _If you prefer not to use awp you can use the file._ We are working to update it, but you can use it now.
 - **How to install?:**
-- download zip file
-- extract the zip file
-- Move the files to the required resource managers.
++ download zip file
+ extract the zip file
++ Move the files to the required resource managers.
 - The game images are just an exhibition for you to see the in-game footage of the mod.You don't have to throw it to the Resource Swapper section, even if you do, it won't do any harm.
 
 # [Client](https://social.venge.io/client) Shortcuts
