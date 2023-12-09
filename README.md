@@ -4,7 +4,7 @@ ooops mod was created by ooops in 2021. However, since 2 years have passed, the 
 1- You should use the client without the intention of stealing the code or modifying the code in the client without permission from the developers.
 
 2- Please refrain from spreading the client's GitHub link, and instead distribute the Discord link. 
-<img src="https://iili.io/JTflAKJ.png" alt="verified" width="15" height="15">
+<img src="https://iili.io/JTflAKJ.png" alt="verified" width="20" height="20">
 
 # Notes:
 - **How to install?:**
