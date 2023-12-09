@@ -42,6 +42,6 @@ To report issues or enquire about somethin; [OOOPS Mod dicord server](https://yo
 and [AbyssYT](https://youtube.com/@abyssytvenge6643?si=LlEMkb4DZ5TECYn3)
 
 **Contributors:**
-[Captain Cool]() and [Just Joe](https://youtube.com/@justjoe7517?si=mKpzBDzyZCjA3Bvc)
+[Captain Cool](https://github.com/Capta1nCool) and [Just Joe](https://github.com/JustxJoe)
 
 **Special-Offer:** [Nexi Weeb](https://github.com/JustxJoe/NeXi-Weeb)
