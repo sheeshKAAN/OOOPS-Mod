@@ -7,7 +7,7 @@ ooops mod was created by ooops in 2021. However, since 2 years have passed, the 
 
 # Notes:
 - **DO NOT open JSON files for any reason**, leave them as they are. Opening and modifying them is unauthorized _(not allowed)_ and the developers will know that you have opened and modified them, so do not attempt this or you may receive a PERMANENT BANN!
- #**OPS Staff** <img src="https://iili.io/JTflAKJ.png" alt="verified" width="19" height="19">
+         #**OPS Staff** <img src="https://iili.io/JTflAKJ.png" alt="verified" width="19" height="19">
 - **How to install?:**
 
  1- download zip file
