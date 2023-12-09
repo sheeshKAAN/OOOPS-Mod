@@ -41,7 +41,7 @@ To report issues or enquire about somethin; [OOOPS Mod dicord server](https://yo
 [OOOPS](https://youtube.com/@OOOPSio?si=KjjgGN1gNQo6A8sd)
 
 **Developed in collaboration by:** 
-[KAAN](https://youtube.com/@KAANvg?si=ygdbqbT-whYhZeKg) 
+[KAAN](https://github.com/sheeshKAAN) 
 and [AbyssYT](https://youtube.com/@abyssytvenge6643?si=LlEMkb4DZ5TECYn3)
 
 **Contributors:**
