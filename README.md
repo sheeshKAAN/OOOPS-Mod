@@ -1,10 +1,9 @@
 # OOOPS-mod
-ooops mod was created by ooops in 2021. However, since 2 years have passed, the mode was not working due to updates and innovations. We have updated the v1.0.61 – v1.1.1 version of the ooops mode to suit the new version of the game and made it available on the client, and we will continue to update it in other versions. ooops mod is an unofficial client for the browser game [Venge.io](Venge.io). The client is not made nor is affliated with the developers of Venge.io. The client is approved and verified by the developers and is completely safe for consumer use. By downloading ooops mod, you promise to adhere to the following rules:
+ooops mod was created by ooops in 2021 <img src="https://iili.io/JTflAKJ.png" alt="verified" width="23" height="23">. However, since 2 years have passed, the mode was not working due to updates and innovations. We have updated the v1.0.61 – v1.1.1 version of the ooops mode to suit the new version of the game and made it available on the client, and we will continue to update it in other versions. ooops mod is an unofficial client for the browser game [Venge.io](Venge.io). The client is not made nor is affliated with the developers of Venge.io. The client is approved and verified by the developers and is completely safe for consumer use. By downloading ooops mod, you promise to adhere to the following rules:
 
 1- You should use the client without the intention of stealing the code or modifying the code in the client without permission from the developers.
 
 2- Please refrain from spreading the client's GitHub link, and instead distribute the Discord link. 
-<img src="https://iili.io/JTflAKJ.png" alt="verified" width="23" height="23">
 
 # Notes:
 - **How to install?:**
