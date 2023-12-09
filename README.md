@@ -6,9 +6,7 @@ ooops mod was created by ooops in 2021. However, since 2 years have passed, the 
 2- Please refrain from spreading the client's GitHub link, and instead distribute the Discord link. 
 
 # Notes:
-- **DO NOT open JSON files for any reason**, leave them as they are. Opening and modifying them is unauthorized _(not allowed)_ and the developers will know that you have opened and modified them, so do not attempt this or you may receive a PERMANENT BANN! 
-
-**OPS Staff** <img src="https://iili.io/JTqogDv.png" alt="verified" width="31" height="31">
+- **DO NOT open JSON files for any reason**, leave them as they are. Opening and modifying them is unauthorized _(not allowed)_ and the developers will know that you have opened and modified them, so do not attempt this or you may receive a PERMANENT BANN! #**OPS Staff** <img src="https://iili.io/JTqogDv.png" alt="verified" width="20" height="20">
 - **How to install?:**
 
  1- download zip file
