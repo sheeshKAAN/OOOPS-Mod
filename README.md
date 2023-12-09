@@ -4,7 +4,7 @@ ooops mod was created by ooops in 2021. However, since 2 years have passed, the 
 1- You should use the client without the intention of stealing the code or modifying the code in the client without permission from the developers.
 
 2- Please refrain from spreading the client's GitHub link, and instead distribute the Discord link. 
-<img src="file:///C:/Users/asus/Desktop/Verified-Icon.png" alt="red rose flower" width="200" height="100">
+<img src="file:///C:/Users/asus/Desktop/Verified-Icon.png" alt="verified" width="200" height="100">
 # Notes:
 - **How to install?:**
 
