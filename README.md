@@ -48,3 +48,15 @@ and [AbyssYT](https://youtube.com/@abyssytvenge6643?si=LlEMkb4DZ5TECYn3)
 [Captain Cool](https://github.com/Capta1nCool) and [Just Joe](https://github.com/JustxJoe)
 
 **Special-Offer:** [Nexi Weeb](https://github.com/JustxJoe/NeXi-Weeb)
+
+
+ <p align="center">
+    A Venge mod that lets you have the best competitive Venge experience.
+    <br />
+    <a href="https://github.com/Tomogunchi/PredMod/releases/latest/">Download</a>
+    ·
+    <img alt="Total Downloads" src="https://img.shields.io/github/downloads/tomogunchi/predmod/total?label=Downloads">
+    ·
+    <a href="https://github.com/Tomogunchi/PredMod/issues">Report Bugs</a>
+  </p>
+</p>
