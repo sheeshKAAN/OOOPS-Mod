@@ -50,5 +50,3 @@ and [AbyssYT](https://youtube.com/@abyssytvenge6643?si=LlEMkb4DZ5TECYn3)
 **Special-Offer:** [Nexi Weeb](https://github.com/JustxJoe/NeXi-Weeb)
 
 <img alt="Total Downloads" src="https://img.shields.io/github/downloads/tomogunchi/predmod/total?label=Downloads">
-
-[![test]()
