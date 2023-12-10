@@ -51,6 +51,6 @@ and [AbyssYT](https://youtube.com/@abyssytvenge6643?si=LlEMkb4DZ5TECYn3)
 
 <img alt="Total Downloads" src="https://img.shields.io/github/downloads/tomogunchi/predmod/total?label=Downloads">
 
-[![Repo Stars](https://img.shields.io/github/stars/KruzShady/steam-plus)](https://github.com/KruzShady/steam-plus/stargazers)
+[![test](https://img.shields.io/github/stars/KruzShady/steam-plus)](https://github.com/KruzShady/steam-plus/stargazers)
 [![SteamAPI Version](https://img.shields.io/npm/v/steamapi)](https://npmjs.com/package/steamapi)
 [![License](https://img.shields.io/github/license/KruzShady/steam-plus)](https://github.com/KruzShady/steam-plus/blob/main/LICENSE)
