@@ -48,5 +48,4 @@ and [AbyssYT](https://github.com/AbyssYT6)
 [Captain Cool](https://github.com/Capta1nCool) and [Just Joe](https://github.com/JustxJoe)
 
 **Special-Offer:** [Nexi Weeb](https://github.com/JustxJoe/NeXi-Weeb)
-![Mozilla Add-on Downloads](https://img.shields.io/amo/dw/test)
 
