@@ -6,7 +6,7 @@ OOOPS Mod was created by [OOOPS](https://youtube.com/@OOOPSio?si=KjjgGN1gNQo6A8s
 2- Please refrain from spreading the client's GitHub link, and instead distribute the Discord link. 
 
 # Notes:
-- **DO NOT open JSON files for any reason**, leave them as they are. Opening and modifying them is unauthorized _(not allowed)_ and the developers will know that you have opened and modified them, so do not attempt this or you may receive a PERMANENT BAN!
+- ⚠️**DO NOT open JSON files for any reason**, leave them as they are. Opening and modifying them is unauthorized _(not allowed)_ and the developers will know that you have opened and modified them, so do not attempt this or you may receive a PERMANENT BAN!
 
   #**OPS Staff** <img src="https://iili.io/JTflAKJ.png" alt="verified" width="19" height="19">
 - **How to install?:**
