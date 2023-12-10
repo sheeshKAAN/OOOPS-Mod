@@ -48,3 +48,4 @@ and [AbyssYT](https://youtube.com/@abyssytvenge6643?si=LlEMkb4DZ5TECYn3)
 [Captain Cool](https://github.com/Capta1nCool) and [Just Joe](https://github.com/JustxJoe)
 
 **Special-Offer:** [Nexi Weeb](https://github.com/JustxJoe/NeXi-Weeb)
+![Static Badge](https://img.shields.io/badge/:badgeContent)
