@@ -47,4 +47,7 @@ and [AbyssYT](https://youtube.com/@abyssytvenge6643?si=LlEMkb4DZ5TECYn3)
 **Contributors:**
 [Captain Cool](https://github.com/Capta1nCool) and [Just Joe](https://github.com/JustxJoe)
 
-**Special-Offer:** [Nexi Weeb](https://github.com/JustxJoe/NeXi-Weeb)
+**Special-Offer:** [Nexi Weeb](https://github.com/JustxJoe/NeXi-Weeb)^
+
+[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)]()
+
