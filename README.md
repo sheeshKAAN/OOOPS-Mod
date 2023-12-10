@@ -39,6 +39,7 @@ To report issues or enquire about somethin; [OOOPS Mod dicord server](https://yo
 #  Credits
 **Creative:**
 [OOOPS](https://youtube.com/@OOOPSio?si=KjjgGN1gNQo6A8sd)
+<img alt="Total Downloads" src="https://img.shields.io/github/downloads/dezgg/Neon-Mod/total?label=Downloads">
 
 **Developed in collaboration by:** 
 [KAAN](https://github.com/sheeshKAAN) 
