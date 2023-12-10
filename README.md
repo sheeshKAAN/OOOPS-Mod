@@ -48,5 +48,3 @@ and [AbyssYT](https://youtube.com/@abyssytvenge6643?si=LlEMkb4DZ5TECYn3)
 [Captain Cool](https://github.com/Capta1nCool) and [Just Joe](https://github.com/JustxJoe)
 
 **Special-Offer:** [Nexi Weeb](https://github.com/JustxJoe/NeXi-Weeb)
-
-<img alt="Total Downloads" src="file:///C:/Users/asus/Downloads/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f646f">
