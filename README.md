@@ -48,4 +48,3 @@ and [AbyssYT](https://youtube.com/@abyssytvenge6643?si=LlEMkb4DZ5TECYn3)
 [Captain Cool](https://github.com/Capta1nCool) and [Just Joe](https://github.com/JustxJoe)
 
 **Special-Offer:** [Nexi Weeb](https://github.com/JustxJoe/NeXi-Weeb)
- <img alt="Total Downloads" src="https://img.shields.io/github/downloads/tomogunchi/GenoMod/total?label=Downloads">
