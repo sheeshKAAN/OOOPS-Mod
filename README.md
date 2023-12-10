@@ -42,7 +42,7 @@ To report issues or enquire about somethin; [OOOPS Mod dicord server](https://yo
 
 **Developed in collaboration by:** 
 [KAAN](https://github.com/sheeshKAAN) 
-and [AbyssYT](https://youtube.com/@abyssytvenge6643?si=LlEMkb4DZ5TECYn3)
+and [AbyssYT](https://github.com/AbyssYT6)
 
 **Contributors:**
 [Captain Cool](https://github.com/Capta1nCool) and [Just Joe](https://github.com/JustxJoe)
