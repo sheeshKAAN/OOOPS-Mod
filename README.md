@@ -48,4 +48,4 @@ and [AbyssYT](https://github.com/AbyssYT6)
 [Captain Cool](https://github.com/Capta1nCool) and [Just Joe](https://github.com/JustxJoe)
 
 **Special-Offer:** [Nexi Weeb](https://github.com/JustxJoe/NeXi-Weeb)
-
+[![Npm package total downloads](https://badgen.net/npm/dt/express)](https://npmjs.com/package/express)
