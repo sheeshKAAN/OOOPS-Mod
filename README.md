@@ -48,5 +48,3 @@ and [AbyssYT](https://github.com/AbyssYT6)
 [Captain Cool](https://github.com/Capta1nCool) and [Just Joe](https://github.com/JustxJoe)
 
 **Special-Offer:** [Nexi Weeb](https://github.com/JustxJoe/NeXi-Weeb)
-
-<a href="https://github.com/trimstray/the-book-of-secret-knowledge/graphs/contributors"><img src="https://opencollective.com/the-book-of-secret-knowledge/contributors.svg?width=890&button=false"></a>
