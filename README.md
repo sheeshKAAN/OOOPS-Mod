@@ -38,13 +38,13 @@ F11 - Toggles full screen mode
 To report issues or enquire about somethin; [OOOPS Mod dicord server](https://youtube.com/@OOOPSio?si=KjjgGN1gNQo6A8sd)
 #  Credits
 **Creative:**
-[OOOPS](https://youtube.com/@OOOPSio?si=KjjgGN1gNQo6A8sd)
+**[OOOPS](https://youtube.com/@OOOPSio?si=KjjgGN1gNQo6A8sd)**
 
 **Developed in collaboration by:** 
-[KAAN](https://github.com/sheeshKAAN) 
-and [AbyssYT](https://github.com/AbyssYT6)
+**[KAAN](https://github.com/sheeshKAAN)** 
+and **[AbyssYT](https://github.com/AbyssYT6)**
 
 **Contributors:**
-[Captain Cool](https://github.com/Capta1nCool) and [Just Joe](https://github.com/JustxJoe)
+**[Captain Cool](https://github.com/Capta1nCool)** and **[Just Joe](https://github.com/JustxJoe)**
 
-**Special-Offer:** [Nexi Weeb](https://github.com/JustxJoe/NeXi-Weeb)
+**Special-Offer:** **[Nexi Weeb](https://github.com/JustxJoe/NeXi-Weeb)**
