@@ -37,7 +37,7 @@ F11 - Toggles full screen mode
 # Contact
 To report issues or enquire about somethin; [OOOPS Mod dicord server](https://youtube.com/@OOOPSio?si=KjjgGN1gNQo6A8sd)
 
-If you want to send us your suggestions or bugs about the mod:
+If you want to send us suggestions or bugs about the mod:
 [Report Bugs](https://github.com/sheeshKAAN/OOOPS-mod/issues/3) - [Suggestions](https://github.com/sheeshKAAN/OOOPS-mod/issues/4)
 #  Credits
 **Creative:**
