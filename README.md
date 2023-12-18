@@ -56,4 +56,4 @@ and **[AbyssYT](https://github.com/AbyssYT6)**
 **Contributors:**
 **[Captain Cool](https://github.com/Capta1nCool)** and **[Just Joe](https://github.com/JustxJoe)**
 
-**Special-Offer:** **[Nexi Weeb](https://github.com/JustxJoe/NeXi-Weeb)** and **[ANIMALS Mod](https://cdn.discordapp.com/attachments/1056607402763493396/1088484524322725938/ANIMALS-Mod_2.zip)**
+**Special-Offer:** **[Nexi Weeb](https://github.com/JustxJoe/NeXi-Weeb)** and **[ANIMALS Mod](https://cdn.discordapp.com/attachments/1056607402763493396/1088484524322725938/ANIMALS-Mod_2.zip)** 
