@@ -12,7 +12,7 @@ OOOPS Mod was created by [OOOPS](https://youtube.com/@OOOPSio?si=KjjgGN1gNQo6A8s
 
   #**Developers**<img src="https://iili.io/JTflAKJ.png" alt="verified" width="19" height="19">
 
-<hr width="19" height="10" />
+<hr height="0,1" />
 - **How to install?:**
 
  1- download zip file
