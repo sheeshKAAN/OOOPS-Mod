@@ -12,7 +12,7 @@ OOOPS Mod was created by [OOOPS](https://youtube.com/@OOOPSio?si=KjjgGN1gNQo6A8s
 
   #**Developers**<img src="https://iili.io/JTflAKJ.png" alt="verified" width="19" height="19">
 
-<hr height="01" />
+<hr />
 
 - **How to install?:**
 
@@ -22,10 +22,11 @@ OOOPS Mod was created by [OOOPS](https://youtube.com/@OOOPSio?si=KjjgGN1gNQo6A8s
 
  3- Move the files to the required resource managers.
   
-
+<hr />
 
 - The game images are just an exhibition for you to see the in-game footage of the mod.You don't have to throw it to the Resource Swapper section, even if you do, it won't do any harm.
-
+  
+<hr />
 # [Client](https://social.venge.io/client) Shortcuts
 F1 - Leaves the game back to the main menu
 
