@@ -52,7 +52,7 @@ If you want to send us suggestions or bugs about the mod:
 **Developed in collaboration by:** 
 **[KAAN](https://github.com/sheeshKAAN)** 
 and **[AbyssYT](https://github.com/AbyssYT6)**
-
+ 
 **Contributors:**
 **[Captain Cool](https://github.com/Capta1nCool)** and **[Just Joe](https://github.com/JustxJoe)**
 
