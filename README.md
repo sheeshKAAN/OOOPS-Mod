@@ -50,7 +50,8 @@ If you want to send us suggestions or bugs about the mod:
 **[OOOPS](https://youtube.com/@OOOPSio?si=KjjgGN1gNQo6A8sd)**
 
 **Developed in collaboration by:** 
-**[KAAN](https://github.com/sheeshKAAN)** 
+**[KAAN](https://github.com/sheeshKAAN)** , **[Just Joe](https://github.com/JustxJoe)**
+
 and **[AbyssYT](https://github.com/AbyssYT6)**
  
 **Contributors:**
