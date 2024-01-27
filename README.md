@@ -47,10 +47,11 @@ If you want to send us suggestions or bugs about the mod:
 🐞[Report Bugs](https://github.com/sheeshKAAN/OOOPS-mod/issues/3) - 💭[Suggestions](https://github.com/sheeshKAAN/OOOPS-mod/issues/4)
 #  Credits
 **Creative:**
-**[OOOPS](https://youtube.com/@OOOPSio?si=KjjgGN1gNQo6A8sd)**
+**[OOOPS](https://youtube.com/@OOOPSio?si=KjjgGN1gNQo6A8sd)** and **[Nexi2k](https://github.com/NeXiDE)** 
+
 
 **Developed in collaboration by:** 
-**[KAAN](https://github.com/sheeshKAAN)** , **[Just Joe](https://github.com/JustxJoe)** and **[Nexi2k](https://github.com/NeXiDE)** 
+**[KAAN](https://github.com/sheeshKAAN)** and **[Just Joe](https://github.com/JustxJoe)**
 
 **Contributors:**
 **[Captain Cool](https://github.com/Capta1nCool)** and **[AbyssYT](https://github.com/AbyssYT6)**
