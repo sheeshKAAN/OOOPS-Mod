@@ -1,5 +1,5 @@
 # OOOPS-Mod
-OOOPS Mod was created by OOOPS and Nexi2k in 2020. However, after 2 years, the mode was not working due to updates and innovations. We have updated the OOOPS Mode in accordance with the new version of the game and made it available on the client, and we will continue to update it in other versions. OOOPS Mod is an unofficial client for the browser game [Venge.io](Venge.io). The Client is not affiliated with and is not affiliated with the developers of Venge.io. The client is approved and verified by the developers and is completely safe for consumer use. By downloading OOOPS Mod you promise to abide by the following rules:
+OOOPS Mod was created by OOOPS and Nexi2k in 2020. However, after 2 years, the mode was not working due to updates and innovations. We have updated the OOOPS Mode in accordance with the new version of the game and made it available on the client, and we will continue to update it in other versions. By downloading OOOPS Mod you promise to abide by the following rules:
 
 1- You should use the client without the intention of stealing the code or modifying the code in the client without permission from the developers.
 
