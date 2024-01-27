@@ -57,5 +57,5 @@ If you want to send us suggestions or bugs about the mod:
 **[Captain Cool](https://github.com/Capta1nCool)** and **[AbyssYT](https://github.com/AbyssYT6)**
  
 
-**Special-Offers:** **[Nexi Weeb](https://github.com/JustxJoe/NeXi-Weeb)** and **[Nexi Client]()**
+__**Special-Offers:**__ **[Nexi Weeb](https://github.com/JustxJoe/NeXi-Weeb)** and **[Nexi Client]()**
  
