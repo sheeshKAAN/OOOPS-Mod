@@ -56,5 +56,5 @@ If you want to send us suggestions or bugs about the mod:
 **[Captain Cool](https://github.com/Capta1nCool)** and **[AbyssYT](https://github.com/AbyssYT6)**
  
 
-**Special-Offers:** **[Nexi Weeb](https://github.com/JustxJoe/NeXi-Weeb)** , **[ANIMALS Mod](https://cdn.discordapp.com/attachments/1056607402763493396/1088484524322725938/ANIMALS-Mod_2.zip)** and **[Demon Mod](https://discord.com/channels/902847971274653747/1108437255300849804/1108438099429695588)**
+**Special-Offers:** **[Nexi Weeb](https://github.com/JustxJoe/NeXi-Weeb)** and **[Nexi Client]()**
  
