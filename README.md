@@ -1,5 +1,5 @@
 # OOOPS-Mod
-OOOPS Mod was created by [OOOPS](https://youtube.com/@OOOPSio?si=KjjgGN1gNQo6A8sd) in 2021. However, since 2 years have passed, the mode was not working due to updates and innovations. We have updated the v1.0.61 – v1.1.1 version of the OOOPS Mode to suit the new version of the game and made it available on the client, and we will continue to update it in other versions. OOOPS Mod is an unofficial client for the browser game [Venge.io](Venge.io). The client is not made nor is affliated with the developers of Venge.io. The client is approved and verified by the developers and is completely safe for consumer use. By downloading OOOPS Mod, you promise to adhere to the following rules:
+OOOPS Mod was created by OOOPS and Nexi2k in 2020. However, after 2 years, the mode was not working due to updates and innovations. We have updated the OOOPS Mode in accordance with the new version of the game and made it available on the client, and we will continue to update it in other versions. *By downloading OOOPS Mod you promise to abide by the following rules:*
 
 1- You should use the client without the intention of stealing the code or modifying the code in the client without permission from the developers.
 
@@ -47,14 +47,15 @@ If you want to send us suggestions or bugs about the mod:
 🐞[Report Bugs](https://github.com/sheeshKAAN/OOOPS-mod/issues/3) - 💭[Suggestions](https://github.com/sheeshKAAN/OOOPS-mod/issues/4)
 #  Credits
 **Creative:**
-**[OOOPS](https://youtube.com/@OOOPSio?si=KjjgGN1gNQo6A8sd)**
+**[OOOPS](https://youtube.com/@OOOPSio?si=KjjgGN1gNQo6A8sd)** and **[Nexi2k](https://github.com/NeXiDE)** 
+
 
 **Developed in collaboration by:** 
-**[KAAN](https://github.com/sheeshKAAN)** 
-and **[AbyssYT](https://github.com/AbyssYT6)**
- 
-**Contributors:**
-**[Captain Cool](https://github.com/Capta1nCool)** and **[Just Joe](https://github.com/JustxJoe)**
+**[KAAN](https://github.com/sheeshKAAN)** and **[Just Joe](https://github.com/JustxJoe)**
 
-**Special-Offers:** **[Nexi Weeb](https://github.com/JustxJoe/NeXi-Weeb)** , **[ANIMALS Mod](https://cdn.discordapp.com/attachments/1056607402763493396/1088484524322725938/ANIMALS-Mod_2.zip)** and **[Demon Mod](https://discord.com/channels/902847971274653747/1108437255300849804/1108438099429695588)**
+**Contributors:**
+**[Captain Cool](https://github.com/Capta1nCool)** and **[AbyssYT](https://github.com/AbyssYT6)**
+ 
+
+**Special-Offers:** **[Nexi Weeb](https://github.com/JustxJoe/NeXi-Weeb)** , **[Nexi Client]()** and **[ANIMALS Mod]()**
  
