@@ -51,6 +51,7 @@ If you want to send us suggestions or bugs about the mod:
 
 **Developed in collaboration by:** 
 **[KAAN](https://github.com/sheeshKAAN)** , **[Just Joe](https://github.com/JustxJoe)** and **[Nexi2k](https://github.com/NeXiDE)** 
+
 **Contributors:**
 **[Captain Cool](https://github.com/Capta1nCool)** and **[AbyssYT](https://github.com/AbyssYT6)**
  
