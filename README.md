@@ -9,7 +9,7 @@ OOOPS Mod was created by OOOPS and Nexi2k in 2020. However, after 2 years, the m
 
 # Notes:
 
-- ⚠️**DO NOT open JSON files for any reason**, leave them as they are. Opening and modifying them is unauthorized _(not allowed)_ and the developers will know that you have opened and modified them, so do not attempt this or you may receive a PERMANENT BAN! #**OOOPS Developers**
+- ⚠️**DO NOT open JSON files for any reason**, leave them as they are. Opening and modifying them is unauthorized _(not allowed)_ and the developers will know that you have opened and modified them, so do not attempt this or you may receive a PERMANENT BAN!
 
 - **How to install?:**
 
