@@ -13,7 +13,13 @@ OOOPS Mod was created by OOOPS and Nexi2k in 2020. However, after 2 years, the m
   
 
 - The game images are just an exhibition for you to see the in-game footage of the mod.You don't have to throw it to the Resource Swapper section, even if you do, it won't do any harm.
-  
+## Installation  <a name="installation"></a>
+
+- Download the latest release of the mod (The mod on the main side is always the most up-to-date)
+- Unzip the downloaded folder and copy the subfolder titled "Venge Client"
+- Navigate to your PC's Documents folder and ensure that there isn't already a folder named Venge Client in it. If there is one, delete it prior to attempting the next step 
+- Paste the copied Venge Client folder here
+- Launch Venge Client. The mod has been applied successfully
 
 # [Client](https://social.venge.io/client) Shortcuts
 F1 - Leaves the game back to the main menu
