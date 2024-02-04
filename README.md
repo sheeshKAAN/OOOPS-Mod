@@ -7,12 +7,8 @@ OOOPS Mod was created by OOOPS and Nexi2k in 2020. However, after 2 years, the m
 
 3- The game's asset files belong to OOOPS Mod and Special Offers. Taking and using assets in any way without approval is prohibited.
 
-# Notes:
-
 - ⚠️**DO NOT open JSON files for any reason**, leave them as they are. Opening and modifying them is unauthorized _(not allowed)_ and the developers will know that you have opened and modified them, so do not attempt this or you may receive a PERMANENT BAN!
   
-
-- The game images are just an exhibition for you to see the in-game footage of the mod.You don't have to throw it to the Resource Swapper section, even if you do, it won't do any harm.
 ## Installation  <a name="installation"></a>
 
 - Download the latest release of the mod (The mod on the main side is always the most up-to-date)
