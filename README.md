@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/sheeshKAAN/OOOPS-Mod/assets/132504490/4e136499-ecd6-4918-be4c-ef3f46c77255)https://github.com/sheeshKAAN/OOOPS-Mod/assets/132504490/4e136499-ecd6-4918-be4c-ef3f46c77255" width="100" height="60" alt="NexiClient">
+</p>
+
 # OOOPS Mod
 OOOPS Mod was created by OOOPS and Nexi2k in 2020. However, after 2 years, the mode was not working due to updates and innovations. We have updated the OOOPS Mode in accordance with the new version of the game and made it available on the Venge Client, and we will continue to update it in other versions. *By downloading OOOPS Mod you promise to abide by the following rules:*
 
