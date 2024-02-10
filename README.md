@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/sheeshKAAN/OOOPS-Mod/assets/132504490/4e136499-ecd6-4918-be4c-ef3f46c77255)https://github.com/sheeshKAAN/OOOPS-Mod/assets/132504490/4e136499-ecd6-4918-be4c-ef3f46c77255" width="100" height="60" alt="NexiClient">
+</p>
+
 # OOOPS Mod
 OOOPS Mod was created by OOOPS and Nexi2k in 2020. However, after 2 years, the mode was not working due to updates and innovations. We have updated the OOOPS Mode in accordance with the new version of the game and made it available on the Venge Client, and we will continue to update it in other versions. *By downloading OOOPS Mod you promise to abide by the following rules:*
 
@@ -52,5 +56,4 @@ If you want to send us suggestions or bugs about the mod:
 **Special-Offers:** **[Nexi Weeb](https://github.com/JustxJoe/NeXi-Weeb)** , **[Nexi Client]()** and **[ANIMALS Mod]()**
  
 ## Was used in this project:
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Picsart_%28software_company%29_logo.svg" width="100" height="50"> 
-
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Picsart_%28software_company%29_logo.svg" width="100" height="50">   <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white">
