@@ -60,4 +60,4 @@ If you want to send us suggestions or bugs about the mod:
 
 # License
 
-This project is licensed under the Creative Commons Attribution License (CC-BY) - see the LICENSE file for details.
+This project is licensed under the Creative Commons Attribution License (C) - see the [LICENSE](https://github.com/sheeshKAAN/OOOPS-Mod?tab=MIT-1-ov-file#readme) file for details.
