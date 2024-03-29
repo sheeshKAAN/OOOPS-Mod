@@ -53,7 +53,9 @@ If you want to send us suggestions or bugs about the mod:
 **[Captain Cool](https://github.com/Capta1nCool)** and **[AbyssYT](https://github.com/AbyssYT6)**
  
 
-**Special-Offers:** **[Nexi Weeb](https://github.com/JustxJoe/NeXi-Weeb)** , **[Nexi Client]()** and **[ANIMALS Mod]()**
- 
 ## Was used in this project:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Picsart_%28software_company%29_logo.svg" width="100" height="50">   <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white">
+
+# License
+
+This project is licensed under the Creative Commons Attribution License (CC-BY) - see the [LICENSE](https://github.com/sheeshKAAN/OOOPS-Mod?tab=MIT-1-ov-file#readme) file for details.
